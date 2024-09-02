@@ -7,9 +7,9 @@
 - 📫 Contate-me no email: andersoncarvalhoo2005@gmail.com
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
-<div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonCarvalhoo&show_icons=true&count_private=true&hide_border=false&title_color=A020F0&icon_color=EAF70CFF&text_color=d1d5db&bg_color=0d1117" alt="Anderson Carvalho github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCarvalhoo&layout=compact&hide_border=false&title_color=A020F0&text_color=d1d5db&bg_color=0d1117" />
+<div align="center" style="display: flex; flex-wrap: wrap;">  
+  <img width="600px" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonCarvalhoo&show_icons=true&count_private=true&hide_border=false&title_color=A020F0&icon_color=EAF70CFF&text_color=d1d5db&bg_color=0d1117" alt="Anderson Carvalho github stats" /> 
+  <img width="600px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCarvalhoo&layout=compact&hide_border=false&title_color=A020F0&text_color=d1d5db&bg_color=0d1117" />
 </div>
 
 ## 📚 Conhecimentos e ferramentas
