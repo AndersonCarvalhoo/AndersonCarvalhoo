@@ -1,18 +1,15 @@
-## Hi there 👋
+## Olá, prazer!! Eu sou o Anderson Carvalho👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Graduando em Sistemas para Internet
+- 🌱 Estudando Salesforce Platform
+- 👯 Procuro colaborar em projetos
+- 💬 Fale comigo no linkedin: https://www.linkedin.com/in/anderson-carvalho-a34968254/
+- 📫 Contate-me no email: andersoncarvalhoo2005@gmail.com
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JeffersonSantana99&show_icons=true&count_private=true&hide_border=true&title_color=A020F0&icon_color=EAF70CFF&text_color=EAF70CFFg_color=0d1117" alt="Jefferson Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonSantana99&layout=compact&hide_border=true&title_color=EAF70CFF&text_color=EAF70CFF&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndersonCarvalhoo&show_icons=true&count_private=true&hide_border=false&title_color=A020F0&icon_color=EAF70CFF&text_color=d1d5db&bg_color=0d1117" alt="Anderson Carvalho github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCarvalhoo&layout=compact&hide_border=false&title_color=A020F0&text_color=d1d5db&bg_color=0d1117" />
 </div>
 
 ## 📚 Conhecimentos e ferramentas
