@@ -24,4 +24,7 @@
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
 <br>
+
+### Acesse meu trailhead
+<a href="https://www.salesforce.com/trailblazer/carvalhodev"><img align="center" alt="Salesforce" height="250" width="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"></a>
 <div align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndersonCarvalhoo&s=40&c=5428d7&bg=00000000&no=5&ff=digi&tb=Visitantes%3A+&ta=" alt="visits"></div>
