@@ -1,7 +1,7 @@
 ## Olá, prazer!! Eu sou o Anderson Carvalho👋
 
-- 🔭 Graduando em Sistemas para Internet
-- 🌱 Estudando Salesforce Platform
+- 🔭 Graduado em Sistemas para Internet
+- 🌱 Estudando Salesforce Platform (Ranger)
 - 👯 Procuro colaborar em projetos
 - 💬 Fale comigo no linkedin: https://www.linkedin.com/in/anderson-carvalho-a34968254/
 - 📫 Contate-me no email: andersoncarvalhoo2005@gmail.com
